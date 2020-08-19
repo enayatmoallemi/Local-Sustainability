@@ -8,4 +8,6 @@ For the topic modelling code, see: https://github.com/sibeleker/Validation_Persp
 
 
 # License
-All data and source code are made available under a BSD 3-clause license. You can freely use and modify the code, without warranty, so long as you provide attribution to the authors. For the correct citation, please refer to the journal website: https://www.cell.com/one-earth
+All data and source code are made available under a BSD 3-clause license. You can freely use and modify the code, without warranty, so long as you provide attribution to the authors. DOI: 10.5281/zenodo.3992381
+
+For the full citation of the article, please refer to the journal website: https://www.cell.com/one-earth
